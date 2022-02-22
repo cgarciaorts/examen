@@ -1,0 +1,29 @@
+#navbar { 
+	margin: 0; 
+	padding: 15px; 
+	list-style-type: none; 
+	text-align: center; 
+	background-color: rgb(211, 105, 105); 
+    height: 80px;
+    justify-content: right;
+    display: flex;
+    text-align: center;
+    line-height: 80px;
+	} 
+ 
+#navbar li {  
+	display: inline; 
+    margin-right: 6%;
+	} 
+ 
+#navbar li a { 
+	text-decoration: none; 
+	padding: .2em 1em; 
+	color: #fff; 
+	background-color: rgb(211, 105, 105); 
+	} 
+ 
+#navbar li a:hover { 
+	color: #000; 
+	background-color: rgb(255, 255, 255); 
+	} 
